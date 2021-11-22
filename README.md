@@ -1,5 +1,10 @@
 ### Hi there 👋 I'm Chetna
 
+- 👨‍💻 I love to learn different programming languages to expand my knowledge
+- 🦾 Recently completed a 12 week full-stack coding bootcamp.
+- 🌱 I’m currently learning Python
+- 💬 Enthusiastic to learn new technology 
+
 <!--
 **Chjkbap/Chjkbap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
